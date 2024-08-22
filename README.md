@@ -41,23 +41,3 @@ Here are some of the tools I work with:
 ![ggplot2](https://img.shields.io/badge/ggplot2-DF0F28?style=for-the-badge&logo=ggplot2&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logo=langchain&logoColor=white)
-
-## Recent Projects
-
-Here are a few of my favorite projects that I've worked on:
-
-### 1. **[✨ Project Name 1 ✨](https://github.com/yourusername/project1)**
-   - **Description:** A little peek into what this project is all about.
-   - **Tech Stack:** Python, Pandas, Scikit-Learn, Flask
-
-### 2. **[💡 Project Name 2 💡](https://github.com/yourusername/project2)**
-   - **Description:** A brief intro to this cool project.
-   - **Tech Stack:** Python, TensorFlow, Docker, Azure
-
-### 3. **[🔍 Project Name 3 🔍](https://github.com/yourusername/project3)**
-   - **Description:** What makes this project special? Here's a quick summary.
-   - **Tech Stack:** Python, NumPy, Pandas, Matplotlib
-
----
-
-Thanks for stopping by! 🌸 Let's make something beautiful together.

@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a data scientist and software developer with a passion for turning data into real-world solutions. My toolkit includes machine learning, statistical analysis, and backend development, all geared toward building scalable and impactful projects. Forever curious, I'm always on the lookout for new technologies to learn and challenges to conquer.
+I'm a data scientist and software developer with a passion for turning data into real-world solutions. My toolkit includes machine learning, statistical analysis, and backend development, all geared toward building scalable and impactful projects.
 
 - 🎓 **Education:** MS in Computer Science from University of Missouri
 - 🌟 **Key Skills:** Data science, machine learning, computer vision, and backend development

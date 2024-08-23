@@ -7,7 +7,7 @@ I'm a data scientist and software developer with a passion for turning data into
 - 🎓 **Education:** MS in Computer Science from University of Missouri
 - 🌟 **Key Skills:** Data science, machine learning, computer vision, and backend development
 - 📚 **Learning:** Machine Learning in Production course by DeepLearning.ai
-- 🌱 **Hidden Talent:** Montessori parent, amateur woodworker, gourmet chef, amigurumi novice  
+- 🌱 **Hidden Talent:** Montessori parent, amateur woodworker, gourmet vegan chef, amigurumi novice  
 
 ## Get in Touch
 
